@@ -15,6 +15,7 @@
 		18DEA2261D08339800B55D50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18DEA2241D08339800B55D50 /* LaunchScreen.storyboard */; };
 		18DEA2311D08339800B55D50 /* switchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DEA2301D08339800B55D50 /* switchTests.m */; };
 		18DEA23C1D08339800B55D50 /* switchUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DEA23B1D08339800B55D50 /* switchUITests.m */; };
+		18DEA24A1D08356D00B55D50 /* onoff.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DEA2491D08356D00B55D50 /* onoff.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		18DEA2371D08339800B55D50 /* switchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = switchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18DEA23B1D08339800B55D50 /* switchUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = switchUITests.m; sourceTree = "<group>"; };
 		18DEA23D1D08339800B55D50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18DEA2491D08356D00B55D50 /* onoff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onoff.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		18DEA2151D08339800B55D50 /* switch */ = {
 			isa = PBXGroup;
 			children = (
+				18DEA2491D08356D00B55D50 /* onoff.png */,
 				18DEA2191D08339800B55D50 /* AppDelegate.h */,
 				18DEA21A1D08339800B55D50 /* AppDelegate.m */,
 				18DEA21C1D08339800B55D50 /* ViewController.h */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18DEA24A1D08356D00B55D50 /* onoff.png in Resources */,
 				18DEA2261D08339800B55D50 /* LaunchScreen.storyboard in Resources */,
 				18DEA2231D08339800B55D50 /* Assets.xcassets in Resources */,
 				18DEA2211D08339800B55D50 /* Main.storyboard in Resources */,
