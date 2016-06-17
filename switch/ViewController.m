@@ -25,6 +25,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    NSLog(@"View Did load");
     
     customView = [[UIView alloc]initWithFrame:CGRectMake(30, 50, 120, 100)];
     [customView setBackgroundColor:[UIColor whiteColor]];
